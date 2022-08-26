@@ -1,0 +1,20 @@
+.fraseContainer{
+    background-color: rgb(127, 126, 126);
+    border: 1px solid #0d1ad5;
+}
+
+.fraseComponente{
+    background-color: rgb(134, 134, 134);
+    color:rgb(28, 240, 255)
+}
+.idades{
+    border: 1px solid #0d1ad5;
+}
+
+.fundo{
+    background-color: rgb(211, 208, 208);
+    padding: 10%;
+    margin: 20%;
+    box-shadow: 60px -16px rgb(55, 72, 72);
+    border-radius: 5px;
+}
